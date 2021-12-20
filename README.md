@@ -11,6 +11,8 @@ To analyzing Amazon reviews written by members of the paid Amazon Vine program. 
 ## Results
 
 1. How many Vine reviews and non-Vine reviews were there?
+
+
 ![review](https://github.com/11nithin/Amazon_Vine_Analysis/blob/main/Images/Vine%20reviews%20and%20non-Vine%20reviews.JPG)
 
 - 2.1% (1080) reviews were made by vine members and 97.9% reviews were non vine members
@@ -27,4 +29,6 @@ To analyzing Amazon reviews written by members of the paid Amazon Vine program. 
 ## Summmary 
 
 5 star rating for vine members was about 10 % less than Non vine members. It tells Vine members did not show bias when rating thier products. Vine customers seems more accurate when submitting there reviews.  To get a better idea we should include all of the data rather than filtering it to a percentage of helpful vs total votes as we did for this analysis.
+
+
 ![summary](https://github.com/11nithin/Amazon_Vine_Analysis/blob/main/Images/additional%20summary.JPG)
